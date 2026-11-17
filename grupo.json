@@ -5,37 +5,23 @@
   "integrantes": [
     {
       "integrante": 1,
-      "nome": "",
+      "nome": "Rogério Vieira Manzano",
       "ra": "",
-      "github": "",
+      "github": "roger-ksr",
       "emails": []
     },
     {
       "integrante": 2,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
+      "nome": "Kristian Kirschner Pinto",
+      "ra": "270881",
+      "github": "kristiankirschner",
+      "emails": ["kristianlll@hotmail.com"]
     },
     {
       "integrante": 3,
-      "nome": "",
+      "nome": "Luís Gustavo Magosso Obreli",
       "ra": "",
-      "github": "",
-      "emails": []
-    },
-    {
-      "integrante": 4,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
-    },
-    {
-      "integrante": 5,
-      "nome": "",
-      "ra": "",
-      "github": "",
+      "github": "lussfp",
       "emails": []
     }
   ]

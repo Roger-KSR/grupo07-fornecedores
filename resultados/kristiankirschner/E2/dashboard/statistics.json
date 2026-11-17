@@ -1,0 +1,34 @@
+{
+  "insercao-lote" : {
+    "transaction" : "insercao-lote",
+    "sampleCount" : 100000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 10.093619999999992,
+    "medianResTime" : 9.0,
+    "minResTime" : 4.0,
+    "maxResTime" : 260.0,
+    "pct1ResTime" : 13.0,
+    "pct2ResTime" : 14.0,
+    "pct3ResTime" : 22.0,
+    "throughput" : 948.676596148373,
+    "receivedKBytesPerSec" : 8.33797789583531,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 100000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 10.093619999999992,
+    "medianResTime" : 9.0,
+    "minResTime" : 4.0,
+    "maxResTime" : 260.0,
+    "pct1ResTime" : 13.0,
+    "pct2ResTime" : 14.0,
+    "pct3ResTime" : 22.0,
+    "throughput" : 948.676596148373,
+    "receivedKBytesPerSec" : 8.33797789583531,
+    "sentKBytesPerSec" : 0.0
+  }
+}
